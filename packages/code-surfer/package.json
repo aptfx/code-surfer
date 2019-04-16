@@ -1,6 +1,6 @@
 {
   "name": "code-surfer",
-  "version": "0.5.5",
+  "version": "0.5.6-schemapatched.0",
   "private": false,
   "main": "dist/code-surfer.js",
   "files": [
@@ -42,5 +42,8 @@
     "token",
     "prism",
     "ractjs"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "http://packages.nbg.schema.de:2080/repository/NPM.Schema.Internal/"
+  }
 }
