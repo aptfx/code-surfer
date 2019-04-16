@@ -1,6 +1,6 @@
 {
   "name": "mdx-deck-code-surfer",
-  "version": "0.5.6-schemapatched.0",
+  "version": "0.5.6-schemapatched.1",
   "private": false,
   "main": "dist/index.js",
   "files": [
@@ -11,7 +11,7 @@
     "build:watch": "yarn build --watch"
   },
   "dependencies": {
-    "code-surfer": "^0.5.6-schemapatched",
+    "code-surfer": "^0.5.6-schemapatched.1",
     "memoize-one": "^4.0.2"
   },
   "devDependencies": {
